@@ -1,0 +1,2 @@
+# PlaywwrightVSCode
+AutoTests
